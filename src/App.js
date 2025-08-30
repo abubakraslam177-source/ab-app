@@ -3,6 +3,7 @@ import './App.css';
 import Abu from './components/Ab';
 import Learn from './components/LearnUseState';
 import Btn from './components/TestUseState';
+import ABDULLAH from './components/ABDULLAH';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Btn/>
       {/* <Abu/> */}
 {/* <Learn/> */}
+<ABDULLAH/>
     </div>
   );
 }
