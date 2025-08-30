@@ -14,8 +14,6 @@ function App() {
       <Btn/>
       <Abubakar/>
       <Zain/>
-      {/* <Abu/> */}
-{/* <Learn/> */}
 <ABDULLAH/>
     </div>
   );
