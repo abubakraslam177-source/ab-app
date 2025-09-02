@@ -16,7 +16,7 @@ function App() {
       <Zain/>
 <ABDULLAH/>
     </div>
-  );/
+  );
 }
 
 export default App;
