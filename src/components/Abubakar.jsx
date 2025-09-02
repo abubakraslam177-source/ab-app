@@ -7,6 +7,7 @@ const Abubakar = () => {
         </h1>
         <h1>Zain naseer</h1>
         <input type="text" placeholder='Abubakar Aslam' />
+        <input type="text" placeholder='Abubakar Aslam' />
         </div>
   )
 }
