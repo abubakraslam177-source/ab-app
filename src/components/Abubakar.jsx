@@ -2,7 +2,8 @@ import React from 'react'
 
 const Abubakar = () => {
   return (
-    <div><h1>
+    <div>
+      <h1>
         Hey This is Abubakar Aslam
         </h1>
         <h1>Zain naseer</h1>

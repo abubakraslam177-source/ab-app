@@ -2,7 +2,7 @@
     background-color: aqua;
 }
 body{
-    background-image: url('bat.png');
+    background-image: url('./images/bat.png');
     background-repeat: no-repeat;
     background-size: 678px;
       /* background-position-x: -789px; */
